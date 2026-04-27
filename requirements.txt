@@ -1,6 +1,5 @@
 pandas
-numpy
 sqlalchemy
-python-dotenv
 pyTelegramBotAPI
+tqdm
 openpyxl
